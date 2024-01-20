@@ -50,3 +50,4 @@ searchBtn.addEventListener("click", () => {
     checkWeather(searchBox.value);
 })
 
+//Everything upto date till now
